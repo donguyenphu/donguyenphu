@@ -4,6 +4,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=donguyenphu&theme=transparent&fire=FF9000&dates=EB1700&currStreakLabel=6400EB" alt="GitHub Streak" /></a>
 </div>
 
+<h1>Programming languages and Frameworks</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,php,py,bootstrap,git,github,jquery,postman,pycharm,vscode,eclipse,figma,windows"/>
