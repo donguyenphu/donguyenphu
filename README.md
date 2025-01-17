@@ -7,7 +7,7 @@
 <h1>Programming languages and Frameworks</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,php,py,bootstrap,git,github,jquery,postman,pycharm,vscode,eclipse,figma,windows"/>
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,php,py,bootstrap,git,github,jquery,postman,pycharm,vscode,eclipse,figma,windows,mysql"/>
   </a>
 </p>
  
